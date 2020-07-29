@@ -16,15 +16,8 @@
             "email": "m.pociot@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/caleuanhopkins/botman"
-        }
-    ],
     "require": {
-        "php": ">=7.0",
-        "botman/botman": "dev-2.0"
+        "php": ">=7.0"
     },
     "require-dev": {
         "botman/studio-addons": "~1.0",
